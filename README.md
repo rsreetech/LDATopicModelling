@@ -9,3 +9,5 @@ gensim: https://radimrehurek.com/gensim/
 pyLDAvis : https://pyldavis.readthedocs.io/en/latest/readme.html#installation
 
 matplotlib: https://matplotlib.org/stable/users/installing.html
+
+spacy 2.0 : https://pypi.org/project/spacy/2.0.0/

@@ -11,3 +11,14 @@ pyLDAvis : https://pyldavis.readthedocs.io/en/latest/readme.html#installation
 matplotlib: https://matplotlib.org/stable/users/installing.html
 
 spacy 2.0 : https://pypi.org/project/spacy/2.0.0/
+
+
+LDA paper :
+
+https://ai.stanford.edu/~ang/papers/jair03-lda.pdf 
+
+LDA tutorial:
+
+https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation 
+
+https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/ 

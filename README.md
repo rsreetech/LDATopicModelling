@@ -3,6 +3,9 @@ In this notebook i will be demonstarting Latent Dirchlet Allocation(LDA) for top
 
 
 Pre-requisites
+
 gensim: https://radimrehurek.com/gensim/
+
 pyLDAvis : https://pyldavis.readthedocs.io/en/latest/readme.html#installation
+
 matplotlib: https://matplotlib.org/stable/users/installing.html
